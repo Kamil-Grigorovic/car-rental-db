@@ -22,3 +22,6 @@ A relational database project for managing a car rental service.
 - `drop_and_cleanup.sql` – data and object removal scripts
 - `ER diagram.drawio` – entity-relationship diagram
 - `DB schema.drawio` – database schema diagram
+
+
+![ER diagram](images/ER_diagram.png)
