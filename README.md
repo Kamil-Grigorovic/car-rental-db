@@ -24,4 +24,12 @@ A relational database project for managing a car rental service.
 - `DB schema.drawio` – database schema diagram
 
 
-![ER diagram](images/ER_diagram.png)
+## ER Diagram
+
+![ER Diagram](images/er_diagram.png)
+
+## Database Schema
+
+![Database Schema](images/db_schema.png)
+
+
